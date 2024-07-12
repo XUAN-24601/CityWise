@@ -1,0 +1,1 @@
+tests=["which area has better air quality, 종로구 or 강동구? ","What data API do you have about bikes?","Which fruit is cheaper? Apple of pear?",'Is there any bike left near Gangnam? ','I want to go to Yeouido. Is it crowded in 2 hours?']
